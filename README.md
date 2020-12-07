@@ -1,7 +1,8 @@
+![](./Causal.png =250x)
+
 # A causal view of compositional zero-shot recognition
 This repository hosts the dataset and source code for the paper "A causal view of compositional zero-shot recognition". Yuval Atzmon, Felix Kreuk, Uri Shalit, Gal Chechik, NeurIPS 2020 (Spotlight)
 
-![](./Causal.png)
 
 ## AO-CLEVr Dataset
 
@@ -9,7 +10,7 @@ AO-CLEVr is a new synthetic-images dataset containing images of "easy" Attribute
 
 ![Examples of AO-CLEVr images](./AO_CLEVr_examples.png)
 
-The dataset can be downloaded from this [url](https://drive.google.com/drive/folders/1BBwW9VqzROgJXmvnfXcOxbLob8FB_jLf):
+The dataset can be downloaded from [the following url](https://drive.google.com/drive/folders/1BBwW9VqzROgJXmvnfXcOxbLob8FB_jLf).
 
 
 ## Code 
