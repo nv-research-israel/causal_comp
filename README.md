@@ -1,4 +1,4 @@
-<img src="Causal.png" alt="" width="200"/>
+<img src="Causal.png" align="center" width="400"/>
 
 # A causal view of compositional zero-shot recognition
 This repository hosts the dataset and source code for the paper "A causal view of compositional zero-shot recognition". Yuval Atzmon, Felix Kreuk, Uri Shalit, Gal Chechik, NeurIPS 2020 (Spotlight)
