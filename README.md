@@ -15,3 +15,13 @@ The dataset can be downloaded from [the following url](https://drive.google.com/
 
 ## Code 
 (Under construction)
+
+## Cite the paper
+If you use the contents of this project, please cite our paper.
+
+@inproceedings{neurips2020_causal_comp_atzmon,
+ author = {Atzmon, Yuval and Kreuk, Felix and Shalit, Uri and Chechik, Gal},
+ booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+ title = {A causal view of compositional zero-shot recognition},
+ year = {2020}
+}
