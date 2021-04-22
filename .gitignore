@@ -1,0 +1,15 @@
+wandb/
+outputs/
+logs/
+logs*/
+tmp*/
+beat.touch
+
+notebooks/figures
+
+*__pycache__
+
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.ipynb_checkpoints
